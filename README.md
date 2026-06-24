@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # C Language Workshop
 
 A beginner-friendly C programming workshop designed for students who are starting their programming journey.
@@ -155,3 +156,7 @@ Focus on understanding:
 Once you understand the logic, writing programs becomes much easier.
 
 Happy Learning and Happy Coding!
+=======
+# C_Language_Workshop
+This is notes and material of C language 
+>>>>>>> 753bc2ab4a51b9222c753dc3e04f206516bfa345
