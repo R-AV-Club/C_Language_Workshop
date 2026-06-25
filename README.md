@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # C Language Workshop
 
 A beginner-friendly C programming workshop designed for students who are starting their programming journey.
@@ -50,7 +49,7 @@ Topics Covered:
 - Basic Programming Examples
 
 File:
-`Day-1-Introduction-Variables-InputOutput.md`
+[Structure-Variables-InputOutput](Structure-Variables-InputOutput.md)
 
 ---
 
@@ -68,7 +67,7 @@ Topics Covered:
 - switch Statement
 
 File:
-`Day-2-Operators-ConditionalStatements.md`
+[Operators-ConditionalStatements](Operators-ConditionalStatements.md)
 
 ---
 
@@ -84,7 +83,7 @@ Topics Covered:
 - Pattern Programs
 
 File:
-`Day-3-Loops.md`
+[Loops](Loops.md)
 
 ---
 
@@ -100,7 +99,7 @@ Topics Covered:
 - Practical Function Programs
 
 File:
-`Day-4-Functions.md`
+[Functions](Functions.md)
 
 ---
 
